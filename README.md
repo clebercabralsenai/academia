@@ -6,7 +6,7 @@ O intuito desse repositório é apresentar o projeto final do Curso de Front End
 ## Paleta de cores
 ![Paleta de cores](/assets/img/paleta_cores.PNG)
 ## Tipografia
-- apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+- Verdana, Geneva, Tahoma, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Courier, monospace;
 ## Lista de tarefas do projeto
 - [x] mínimo 5 sessões (desconsiderando header e footer)
 - [x] uma das sessões deve ser a área de contatos com formulário.
